@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GeneciCruz
 - 👀 I’m interested in Software Engineer Automated Testing
-- 🌱 I’m currently learning Selenium WebDriver
+- 🌱 I have learned Selenium WebDriver
 - 💞️ I’m looking to collaborate on Java projects, testing with JUnit and Selenium and testing with Tosca Commander.
+- 🤞  I'm also learning Spring Framework. I like the instructor, so far he is being a great helper.
 - 📫 How to reach me genegona71@gmail.com
 
 <!---
